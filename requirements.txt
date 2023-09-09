@@ -6,3 +6,4 @@ keras
 tensorflow
 streamlit
 plotly
+scikit-learn
