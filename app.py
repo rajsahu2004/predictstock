@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 import datetime as dt
-import matplotlib.pyplot as plt
 import pandas_datareader.data as web
 from keras.models import load_model
 import streamlit as st
