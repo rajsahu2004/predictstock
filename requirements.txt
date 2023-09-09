@@ -1,0 +1,7 @@
+numpy
+pandas
+datetime
+pandas_datareader
+keras
+streamlit
+plotly
