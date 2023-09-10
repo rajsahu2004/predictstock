@@ -27,18 +27,24 @@ To run Predictstock locally, follow these steps:
 
 1. Clone this repository to your local machine.
 
-    `git clone https://github.com/yourusername/predictstock.git`
+    ```bash
+   git clone https://github.com/rajsahu2004/predictstock.git
+    ```
 
-2. Install the required Python libraries using pip.
+3. Install the required Python libraries using pip.
 
-    `pip install -r requirements.txt`
+    ```bash
+   pip install -r requirements.txt
+    ```
 
-3. Run the Streamlit app.
+5. Run the Streamlit app.
 
-    `streamlit run predictstock.py`
+    ```bash
+   streamlit run predictstock.py
+    ```
 
 
-4. Open a web browser and access the app at `https://localhost :8501`
+7. Open a web browser and access the app at `https://localhost :8501`
 
 # Usage
 
