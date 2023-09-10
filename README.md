@@ -25,20 +25,20 @@ Predictstock is a Python-based web application that leverages machine learning, 
 
 To run Predictstock locally, follow these steps:
 
-- Clone this repository to your local machine.
+1. Clone this repository to your local machine.
 
     git clone https://github.com/yourusername/predictstock.git
 
-- Install the required Python libraries using pip.
+2. Install the required Python libraries using pip.
 
     pip install -r requirements.txt
 
-- Run the Streamlit app.
+3. Run the Streamlit app.
 
     streamlit run predictstock.py
 
 
-- Open a web browser and access the app at `https://localhost :8501`
+4. Open a web browser and access the app at `https://localhost :8501`
 
 # Usage
 
