@@ -6,7 +6,7 @@ from keras.models import load_model
 import streamlit as st
 import plotly.graph_objects as go
 
-end  = dt.datetime.now()
+end  = dt.date.today()
 start = end - dt.timedelta(days=5500)
 
 st.set_page_config(page_title='Predictstock', page_icon=":moneybag:", layout='wide', initial_sidebar_state='auto')

@@ -3,5 +3,7 @@ pandas
 datetime
 pandas_datareader
 keras
+tensorflow
 streamlit
 plotly
+scikit-learn
